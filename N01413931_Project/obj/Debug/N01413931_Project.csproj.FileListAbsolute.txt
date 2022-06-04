@@ -1,0 +1,11 @@
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\bin\Debug\N01413931_Project.exe.config
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\bin\Debug\N01413931_Project.exe
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\bin\Debug\N01413931_Project.pdb
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.frmAccount.resources
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.frmMain.resources
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.Properties.Resources.resources
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.csproj.GenerateResource.cache
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.csproj.CoreCompileInputs.cache
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.exe
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.pdb
+C:\Users\Nurlybek\Documents\Winter2021\C#\Project\Project_N01413931\N01413931_Project\N01413931_Project\obj\Debug\N01413931_Project.csproj.AssemblyReference.cache
